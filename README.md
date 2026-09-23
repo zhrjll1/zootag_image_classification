@@ -99,8 +99,18 @@ The final model achieved approximately:
 | Test Images       |    128 |
 
 The confusion matrix and classification report were used to examine performance across individual animal categories.
-
 Some categories were easier for the model to distinguish than others. Insects performed particularly well, while reptiles and marine invertebrates were more challenging.
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Sample Predictions
+
+The following examples show TensorFlow Lite predictions compared with the true labels:
+
+![Sample Predictions](images/sample_predictions.png)
+
 
 ## TensorFlow Lite Optimization
 
