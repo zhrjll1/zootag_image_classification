@@ -1,6 +1,6 @@
 # ZooTag – Animal Image Classification
 
-ZooTag is a collaborative AI/Machine Learning course project focused on classifying animal images into seven categories using deep learning and transfer learning.
+ZooTag is a collaborative AI and Machine Learning course project focused on classifying animal images into seven categories using deep learning and transfer learning.
 
 The project covers an end-to-end machine learning workflow, from data preprocessing and augmentation to model training, fine-tuning, evaluation, and conversion to TensorFlow Lite for more lightweight inference.
 
